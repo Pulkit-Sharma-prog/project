@@ -282,3 +282,97 @@ body {
     height: 400px;
     margin-left: 15%;
 }
+/* Mobile Styles */
+@media (max-width: 768px) {
+  body {
+    font-size: 18px;
+  }
+
+  .hero {
+    padding: 8% 5%;
+    text-align: center;
+  }
+
+  .in-container .hap {
+    font-size: 48px;
+    margin-block-start: 30px;
+    margin-block-end: 30px;
+  }
+
+  .in-container .i,
+  .in-container .so,
+  .in-container .hey {
+    font-size: 18px;
+  }
+
+  .one, .twoo, .ak, .aks, .akas, .akash, .bori, .fm, .fmg, .fmgp {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+  }
+
+  .container-cotton p,
+  .container-lum p,
+  .container p {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .clock-holder font {
+    font-size: 40px;
+  }
+
+  .container-lum {
+    padding: 8%;
+  }
+
+  .container-lum video {
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+  }
+
+  .love {
+    position: static;
+    width: 80%;
+    height: auto;
+    transform: none;
+    margin: 20px auto;
+    display: block;
+  }
+
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .card {
+    width: 80%;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .card h2 {
+    font-size: 28px;
+  }
+
+  .card p {
+    font-size: 18px;
+  }
+
+  .card font {
+    font-size: 60px;
+    margin-top: 40px;
+  }
+
+  .cake {
+    width: 90%;
+    height: auto;
+    margin: 20px auto;
+    display: block;
+  }
+}
