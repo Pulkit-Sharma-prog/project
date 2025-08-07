@@ -13,6 +13,25 @@ body {
     display: inline-block;
 }
 
+.one {
+    height: 470px;
+    width: 350px;
+    margin-left: 7%;
+    
+}
+.twoo {
+    height: 470px;
+    width: 350px;
+    margin-left: 1%;
+    padding-left: 16px;
+}
+.ak {
+    height: 470px;
+    width: 350px;
+    margin-left: 6%;
+    
+}
+
 .in-container .hey{
     font-size: 30px;
     font-weight: 900;
@@ -36,6 +55,24 @@ body {
     to {width: 100%; border-color: transparent;}
 }
 
+.aks {
+    height: 470px;
+    width: 350px;
+    margin-left: 2%;
+    
+}
+.akas {
+    height: 470px;
+    width: 350px;
+    margin-left: 2%;
+    
+}
+.akash {
+    height: 470px;
+    width: 350px;
+    margin-left: 2%;
+    
+}
 .in-container .hap{
     font-weight: 900;
     letter-spacing: 1px;
@@ -111,7 +148,7 @@ body {
 
 .container-cotton {
     background-color: #FEC8D8;
-    padding: 16% 16%;
+    padding: 8% 8%;
 }
 
 .container-cotton p{
@@ -136,21 +173,23 @@ body {
 }
 
 .bori {
-    height: 400px;
-    width: 400px;
+    height: 500px;
+    width: 350px;
     margin-left: 70%;
     
 }
 
 .container-lum video {
+    height: 400px;
+    width: 350px;
     margin-top: -200px;
 }
 
 .love {
     height: 150px;
-    width: 400px;
+    width: 500px;
     position: absolute;
-    left: 37%;
+    left: 32%;
     top: 40%;
     transform: rotate(-20deg);
 }
@@ -220,6 +259,22 @@ body {
 
 .birthday-wishes {
     text-align: justify;
+}
+
+.fm {
+    height: 400px;
+    width: 300px;
+    margin-left: 3%;
+}
+.fmg {
+    height: 400px;
+    width: 300px;
+    margin-left: 3%;
+}
+.fmgp {
+    height: 400px;
+    width: 300px;
+    margin-left: 3%;
 }
 
 .cake {
